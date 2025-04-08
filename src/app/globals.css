@@ -44,6 +44,8 @@
 
   --shadow-neumorphic-sm: 5px 5px 10px rgba(0, 0, 0, 0.03), -5px -5px 10px rgba(255, 255, 255, 0.8);
   --transition-default: all 0.3s ease;
+
+  --card-inset-shadow: inset 3px 3px 7px rgba(0, 0, 0, 0.05), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
 }
 
 html {
