@@ -1,11 +1,132 @@
 {
-  "timestamp": "2025-04-08T12:31:36.231Z",
+  "timestamp": "2025-04-08T12:32:40.181Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 20,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section with café ambiance, headline, and booking CTA"
+    },
+    {
+      "name": "NavBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL Hebrew navigation bar with logo and links"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Café introduction section with story and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of café services with visual elements"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive table reservation system with form"
+    },
+    {
+      "name": "MenuHighlights",
+      "type": "menu",
+      "status": "pending",
+      "description": "Featured menu items with images and descriptions"
+    },
+    {
+      "name": "AtmosphereGallery",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the café ambiance and interior"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with accordion functionality"
+    },
+    {
+      "name": "TestimonialsSlider",
+      "type": "social-proof",
+      "status": "pending",
+      "description": "Customer reviews and testimonials carousel"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and form with map"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, social media, and copyright"
+    },
+    {
+      "name": "SpecialEventsSection",
+      "type": "events",
+      "status": "pending",
+      "description": "Upcoming events and special promotions"
+    },
+    {
+      "name": "InstagramFeed",
+      "type": "social-media",
+      "status": "pending",
+      "description": "Instagram feed integration showing café photos"
+    },
+    {
+      "name": "NewsletterSignup",
+      "type": "marketing",
+      "status": "pending",
+      "description": "Email newsletter subscription form"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout component with metadata and global styles"
+    },
+    {
+      "name": "Button",
+      "type": "ui-component",
+      "status": "pending",
+      "description": "Reusable button component with variants"
+    },
+    {
+      "name": "Card",
+      "type": "ui-component",
+      "status": "pending",
+      "description": "Reusable card component for consistent content display"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Full menu page with categories and items"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated booking page with extended functionality"
+    },
+    {
+      "name": "AboutPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Extended about page with history and team"
+    }
+  ],
   "repoName": "webis-site-byt-kph-gma-1744115473312"
 }
