@@ -8,6 +8,12 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #fdfaec;
   --secondary-color: #FFEEAD;
+
+  --neumorphic-shadow-light: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  --neumorphic-shadow-dark: -5px -5px 15px rgba(255, 255, 255, 0.1);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-blur: 10px;
+  --animation-duration: 0.5s;
 }
 
 html {
