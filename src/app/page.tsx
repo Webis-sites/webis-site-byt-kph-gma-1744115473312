@@ -17,6 +17,7 @@ import InstagramFeed from '../components/InstagramFeed';
 import NewsletterSignup from '../components/NewsletterSignup';
 import Layout from '../components/Layout';
 import Button from '../components/Button';
+import Card from '../components/Card';
 
 export default function HomePage() {
   return (
@@ -39,6 +40,7 @@ export default function HomePage() {
     <NewsletterSignup />
     <Layout />
     <Button />
+    <Card />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
