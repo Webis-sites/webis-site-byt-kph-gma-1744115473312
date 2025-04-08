@@ -46,6 +46,12 @@
   --transition-default: all 0.3s ease;
 
   --card-inset-shadow: inset 3px 3px 7px rgba(0, 0, 0, 0.05), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
+
+  --shadow-neumorph: 10px 10px 20px rgba(0, 0, 0, 0.05), -10px -10px 20px rgba(255, 255, 255, 0.8);
+  --shadow-neumorph-sm: 5px 5px 10px rgba(0, 0, 0, 0.03), -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --shadow-neumorph-sm-hover: 7px 7px 15px rgba(0, 0, 0, 0.05), -7px -7px 15px rgba(255, 255, 255, 0.9);
+  --shadow-neumorph-sm-active: inset 5px 5px 10px rgba(0, 0, 0, 0.05), inset -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --shadow-neumorph-inset: inset 3px 3px 6px rgba(0, 0, 0, 0.1), inset -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
 
 html {
