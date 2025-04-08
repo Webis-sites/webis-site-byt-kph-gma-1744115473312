@@ -38,6 +38,9 @@
   --neumorphic-shadow: 8px 8px 16px rgba(209, 205, 199, 0.5), -8px -8px 16px rgba(255, 255, 255, 0.8);
   --neumorphic-pressed: inset 4px 4px 8px rgba(209, 205, 199, 0.5), inset -4px -4px 8px rgba(255, 255, 255, 0.8);
   --transition-speed: 0.3s;
+
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
 }
 
 html {
