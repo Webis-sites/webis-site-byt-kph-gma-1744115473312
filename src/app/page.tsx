@@ -15,6 +15,7 @@ import Footer from '../components/Footer';
 import SpecialEventsSection from '../components/SpecialEventsSection';
 import InstagramFeed from '../components/InstagramFeed';
 import NewsletterSignup from '../components/NewsletterSignup';
+import Layout from '../components/Layout';
 
 export default function HomePage() {
   return (
@@ -35,6 +36,7 @@ export default function HomePage() {
     <SpecialEventsSection />
     <InstagramFeed />
     <NewsletterSignup />
+    <Layout />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
