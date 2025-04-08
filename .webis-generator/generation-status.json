@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-08T12:48:31.818Z",
+  "timestamp": "2025-04-08T12:49:13.022Z",
   "status": {
     "totalComponents": 20,
-    "completedComponents": 13,
+    "completedComponents": 14,
     "failedComponents": 0,
-    "progress": 65
+    "progress": 70
   },
   "components": [
     {
@@ -88,7 +88,7 @@
     {
       "name": "NewsletterSignup",
       "type": "marketing",
-      "status": "pending",
+      "status": "completed",
       "description": "Email newsletter subscription form"
     },
     {
