@@ -52,6 +52,13 @@
   --shadow-neumorph-sm-hover: 7px 7px 15px rgba(0, 0, 0, 0.05), -7px -7px 15px rgba(255, 255, 255, 0.9);
   --shadow-neumorph-sm-active: inset 5px 5px 10px rgba(0, 0, 0, 0.05), inset -5px -5px 10px rgba(255, 255, 255, 0.8);
   --shadow-neumorph-inset: inset 3px 3px 6px rgba(0, 0, 0, 0.1), inset -3px -3px 6px rgba(255, 255, 255, 0.7);
+
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --shadow-highlight: rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-inset: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -3px -3px 7px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-button: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-button-hover: 7px 7px 15px rgba(0, 0, 0, 0.1), -7px -7px 15px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-button-active: inset 5px 5px 10px rgba(0, 0, 0, 0.1), inset -5px -5px 10px rgba(255, 255, 255, 0.7);
 }
 
 html {
